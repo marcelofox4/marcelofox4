@@ -30,9 +30,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloraposodev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelinhofox/)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelofox4&show_icons=true&theme=github_dark_dimmed)
-
 <!-- GithubTopLangs -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofox4&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed)
 
